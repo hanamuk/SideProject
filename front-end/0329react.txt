@@ -1,0 +1,7 @@
+1. Node.js 를 설치한다 (npm)
+2. npm install -g create-react-app 모든곳에서 사용
+    가능하도록 설정.
+3. npx는 사용하고 바로 지우고 npm은 사용하고 계속     저장..
+4. npm run start : 리엑트 시작..
+5. src파일 안에 만든 파일을 넣는다..
+6. index.html을 사용해 컴포넌트를 넣는다?
