@@ -1,0 +1,14 @@
+- Main 함수와 같은 endpoint는 리엑트에서 App.js 이다.. 즉 html, js코딩하는 부분
+
+아마 index.js에서 App.js, index를 로드하는듯?
+
+- Css 수정하는 방법은 index.css에서 하면된다라고함
+
+- 개발환경을 시작할떄는 npm start를 사용하지만
+   빌드를 할떄는 npm run build를 사용한다..
+
+npm start을 사용하면 불필요한 용량이있는데
+npm run build를 사용하면 실제 제품에서 사용하도록 용량을 줄이던지 보안을 처리해서 사용가능하도록 한다..
+
+즉 실제 서비스 할때는 build안에 파일을 사용..
+ 
